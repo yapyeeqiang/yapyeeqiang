@@ -4,10 +4,10 @@ A passionate Full-Stack Developer and also a Math Teacher. My goal is to share k
 
 ## I'm a Developer and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Launch my Tech Startup!
-- ⚡ Fun fact: I love to play basketball 🏀 and play snooker 🎱
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other developers
+- 🥅  2021 Goals: Launch my Tech Startup!
+- ⚡  Fun fact: I love to play basketball 🏀 and play snooker 🎱
 
 ### Connect with me:
 
