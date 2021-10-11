@@ -1,8 +1,8 @@
 ### Hi there, I'm [Yap Yee Qiang][website] 👋
 
-A passionate Full-Stack Developer and also a Math Teacher. My goal is to share knowledge and education to everyone in the World.
+A passionate Full-Stack Developer and an Educator. My goal is to share my knowledge and lead more people into coding!
 
-## I'm a Developer and Teacher!!
+## I'm a Techie!!
 
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other developers
