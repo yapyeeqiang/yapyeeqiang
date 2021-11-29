@@ -51,20 +51,21 @@
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
+  <a href="https://github.com/yapyeeqiang/learn-pinia">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yapyeeqiang&repo=learn-pinia&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yapyeeqiang/create-vue-app">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yapyeeqiang&repo=create-vue-app&theme=tokyonight" />
+  </a>
+  
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
+  <a href="https://github.com/yapyeeqiang/amazon-clone">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yapyeeqiang&repo=amazon-clone&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yapyeeqiang/airbnb-clone">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yapyeeqiang&repo=airbnb-clone&theme=tokyonight" />
+  </a>
 </p>
 
 <br />
