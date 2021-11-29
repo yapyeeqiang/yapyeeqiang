@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yapyeeqiang&theme=radical" width="450" />
 <img src="https://github-readme-stats.vercel.app/api?username=yapyeeqiang&theme=radical&show_icons=true" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapyeeqiang&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapyeeqiang&layout=compact&theme=radical" width="450" />
 </p>
 <p>Enthusiastic Front End Developer with 1 year of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, TypeScript, HTML/CSS. TailwindCSS, SCSS. a11y minded. Scrum & Agile inspired.</p>
 <br />
