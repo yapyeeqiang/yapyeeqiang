@@ -7,10 +7,14 @@
 <a href="https://twitter.com/yeeqiangyap"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 <br />
+  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yapyeeqiang&theme=radical" width="450" />
-<img src="https://github-readme-stats.vercel.app/api?username=yapyeeqiang&theme=radical&show_icons=true" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapyeeqiang&layout=compact&theme=radical" width="450" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=yapyeeqiang&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yapyeeqiang&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yapyeeqiang&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yapyeeqiang&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapyeeqiang&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yapyeeqiang&margin-w=5&theme=radical" />
 </p>
 <p>Enthusiastic Front End Developer with 1 year of practical experience in Progressive Web App Development, React, JavaScript/ES6/ES2017, TypeScript, HTML/CSS. TailwindCSS, SCSS. a11y minded. Scrum & Agile inspired.</p>
 <br />
